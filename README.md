@@ -1,4 +1,4 @@
-# pi-hole with a locked router using the rasberry pi zero 2-w
+# pi-hole with a locked router using the raspberry pi zero 2-w
 
 # Materials Used or Needed if following along:
 
